@@ -6,7 +6,7 @@ VictorDegasperi/VictorDegasperi is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ## Olá! Eu sou Victor Degasperi, Desenvolvedor Front-end!
-<div align="center">
+<div align="center, display:inline_block">
   <a href="https://github.com/VictorDegasperi/VictorDegasperi">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=VictorDegasperi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDegasperi&layout=compact&langs_count=7&theme=dark"/>
